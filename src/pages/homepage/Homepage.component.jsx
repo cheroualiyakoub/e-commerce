@@ -1,4 +1,5 @@
 import React from 'react';
+
 import './homepage.style.scss';
 import Directroy from '../../components/directory/directory.component.jsx'
 
